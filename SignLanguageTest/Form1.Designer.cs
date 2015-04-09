@@ -37,35 +37,39 @@
             // 
             // axWindowsMediaPlayer1
             // 
+            this.axWindowsMediaPlayer1.Dock = System.Windows.Forms.DockStyle.Left;
             this.axWindowsMediaPlayer1.Enabled = true;
-            this.axWindowsMediaPlayer1.Location = new System.Drawing.Point(2, 1);
+            this.axWindowsMediaPlayer1.Location = new System.Drawing.Point(0, 0);
             this.axWindowsMediaPlayer1.Name = "axWindowsMediaPlayer1";
             this.axWindowsMediaPlayer1.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("axWindowsMediaPlayer1.OcxState")));
-            this.axWindowsMediaPlayer1.Size = new System.Drawing.Size(456, 389);
+            this.axWindowsMediaPlayer1.Size = new System.Drawing.Size(613, 475);
             this.axWindowsMediaPlayer1.TabIndex = 0;
             // 
             // listBox1
             // 
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(464, 33);
+            this.listBox1.Location = new System.Drawing.Point(619, 29);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(343, 355);
+            this.listBox1.Size = new System.Drawing.Size(176, 433);
             this.listBox1.TabIndex = 1;
             this.listBox1.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.listBox1_MouseDoubleClick);
             // 
             // comboBox1
             // 
+            this.comboBox1.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
+            this.comboBox1.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(465, 6);
+            this.comboBox1.Location = new System.Drawing.Point(619, 5);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(342, 21);
+            this.comboBox1.Size = new System.Drawing.Size(175, 21);
             this.comboBox1.TabIndex = 2;
+            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(819, 394);
+            this.ClientSize = new System.Drawing.Size(800, 475);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.axWindowsMediaPlayer1);

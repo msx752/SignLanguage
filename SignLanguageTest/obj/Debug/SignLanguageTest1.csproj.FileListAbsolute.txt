@@ -53,7 +53,6 @@ C:\Users\MustafaSalih\Documents\GitHub\SignLanguage\SignLanguageTest\bin\Debug\_
 C:\Users\MustafaSalih\Documents\GitHub\SignLanguage\SignLanguageTest\bin\Debug\_isaretDili1.pdb
 C:\Users\MustafaSalih\Documents\GitHub\SignLanguage\SignLanguageTest\bin\Debug\Interop.WMPLib.dll
 C:\Users\MustafaSalih\Documents\GitHub\SignLanguage\SignLanguageTest\bin\Debug\AxInterop.WMPLib.dll
-C:\Users\MustafaSalih\Documents\GitHub\SignLanguage\SignLanguageTest\obj\Debug\SignLanguageTest1.csprojResolveAssemblyReference.cache
 C:\Users\MustafaSalih\Documents\GitHub\SignLanguage\SignLanguageTest\obj\Debug\_isaretDili1.Form1.resources
 C:\Users\MustafaSalih\Documents\GitHub\SignLanguage\SignLanguageTest\obj\Debug\_isaretDili1.Properties.Resources.resources
 C:\Users\MustafaSalih\Documents\GitHub\SignLanguage\SignLanguageTest\obj\Debug\SignLanguageTest1.csproj.GenerateResource.Cache
