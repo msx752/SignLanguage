@@ -1,0 +1,17 @@
+C:\Users\salih\Documents\GitHub\SignLanguage\Vave\bin\Debug\SignLanguage.exe.config
+C:\Users\salih\Documents\GitHub\SignLanguage\Vave\obj\Debug\Interop.WMPLib.dll
+C:\Users\salih\Documents\GitHub\SignLanguage\Vave\obj\Debug\SignLanguage.csproj.ResolveComReference.cache
+C:\Users\salih\Documents\GitHub\SignLanguage\Vave\bin\Debug\SignLanguage.exe
+C:\Users\salih\Documents\GitHub\SignLanguage\Vave\bin\Debug\SignLanguage.pdb
+C:\Users\salih\Documents\GitHub\SignLanguage\Vave\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\salih\Documents\GitHub\SignLanguage\Vave\bin\Debug\CUETools.Codecs.dll
+C:\Users\salih\Documents\GitHub\SignLanguage\Vave\bin\Debug\CUETools.Codecs.FLAKE.dll
+C:\Users\salih\Documents\GitHub\SignLanguage\Vave\bin\Debug\NAudio.dll
+C:\Users\salih\Documents\GitHub\SignLanguage\Vave\bin\Debug\Newtonsoft.Json.dll
+C:\Users\salih\Documents\GitHub\SignLanguage\Vave\bin\Debug\Interop.WMPLib.dll
+C:\Users\salih\Documents\GitHub\SignLanguage\Vave\obj\Debug\Vave.Vave.resources
+C:\Users\salih\Documents\GitHub\SignLanguage\Vave\obj\Debug\Vave.Properties.Resources.resources
+C:\Users\salih\Documents\GitHub\SignLanguage\Vave\obj\Debug\SignLanguage.csproj.GenerateResource.Cache
+C:\Users\salih\Documents\GitHub\SignLanguage\Vave\obj\Debug\SignLanguage.exe
+C:\Users\salih\Documents\GitHub\SignLanguage\Vave\obj\Debug\SignLanguage.pdb
+C:\Users\salih\Documents\GitHub\SignLanguage\Vave\obj\Debug\SignLanguage.csprojResolveAssemblyReference.cache
