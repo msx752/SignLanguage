@@ -102,6 +102,7 @@ namespace Vave
         private void Vave_Load(object sender, EventArgs e)
         {
             LoadVideos();
+            Directory.CreateDirectory(Application.StartupPath + "\\files");
             Directory.Delete(Application.StartupPath + "\\files", true);//tüm eski ses dosyaları siliniyor
             int DVNumber = RefreshMics();//geliştirilmesi lazım
             Mic = new AudioRecorder(DVNumber);
@@ -374,8 +375,8 @@ namespace Vave
 
         private void Vave_Resize(object sender, EventArgs e)
         {
-            this.Width = 850; 
-            this.Height = 540;
+            //this.Width = 850; 
+            //this.Height = 540;
         }
 
     }
